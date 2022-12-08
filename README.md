@@ -19,6 +19,8 @@
 - Portfolio: [Alaa Shaheen](https://github.com/AlaaShaheen2/capstone)
 
 
+# Live demo:
+[live demo](https://alaashaheen2.github.io/Web-Studio-Homework/)
 ## Authors
 👤 **Alaa Shaheen**
 
@@ -52,7 +54,7 @@ The video description of the  project can be accessed using [this loom link](htt
 ### Run tests
 - You can navigate to different parts of the page from the navigation bar and you can also inspect using the available browser tools to se how the webpages were built.
 ### Deployment
-- The project is deployed at [ https://alaashaheen2.github.io/capstone/]( https://alaashaheen2.github.io/capstone/)
+- The project is deployed at [ https://github.com/AlaaShaheen2/Web-Studio-Homework](https://github.com/AlaaShaheen2/Web-Studio-Homework)
 
 
 ## Acknowledgments
@@ -60,7 +62,7 @@ The video description of the  project can be accessed using [this loom link](htt
 - Thanks to the reviewers
 - Thanks to Cindy Shin the author of the original desig
 
-## 📝 License
+
 
 ## 📝 License
 - This project is [MIT](./LICENSE.txt) licensed.
